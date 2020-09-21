@@ -1,0 +1,54 @@
+body{
+  background-color:#F6F7EB;
+}
+  
+  h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: #E94F37;
+    background-color: #393E41;
+  }
+
+  h3 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+  }
+
+p {
+    font-family: 'Libre Baskerville', serif;
+    padding-left:15%;
+    padding-right:15%;
+    text-align: center;
+    color: #393E41;
+  }
+
+
+  h6 {
+    font-family: 'Libre Bakersville', serif;
+    text-align: center;
+    color: #393E41;
+  }
+
+  img {
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+}
+
+.video{
+  padding:20px;
+  padding-top:500px;
+}
+
+.container{
+  margin-bottom: 300px;
+}
+
+.tone{
+  padding-bottom:450px;
+}
+
+.story{
+  padding-top: 500px;
+  padding-bottom: 500px;
+}
